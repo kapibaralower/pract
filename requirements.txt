@@ -1,4 +1,3 @@
-json
 boto3
 pandas
 requests
